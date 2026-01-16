@@ -1,5 +1,5 @@
 ---
-source_files: [../src/apDebug.cpp]
+source_files: [../src/apDebug.cpp, ../src/draw.cpp]
 hooks:
   - name: DrawAPhysics
     type: branch_insn
